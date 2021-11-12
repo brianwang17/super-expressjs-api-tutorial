@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 27d90618a8b23d08fea57a8d177d1f44afb8174e Brian Wang <brian.wang@marshallreddick.com> 1629500160 -0700	clone: from https://github.com/brianwangmr/expressjs-api-tutorial.git
+27d90618a8b23d08fea57a8d177d1f44afb8174e e53420a0981eb08464e2326b05bfaeee9531d4da Brian Wang <brian.wang@marshallreddick.com> 1630364635 -0700	commit: Adds a bunch of changes such as auth service with refresh token functionality and working tests
+e53420a0981eb08464e2326b05bfaeee9531d4da c860565ded430b5879ab7bc16331b76475fddef2 Brian Wang <brian.wang@marshallreddick.com> 1630368160 -0700	commit: Adds working docker setup
